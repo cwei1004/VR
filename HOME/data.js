@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 1664,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.6291393276436335,
+        "pitch": 0.035083446310007815,
+        "fov": 1.2599180821480807
       },
       "linkHotspots": [],
       "infoHotspots": [
@@ -39,11 +39,11 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "PIPE ENTRY",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
